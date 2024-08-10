@@ -14,11 +14,11 @@ This project investigates the role of Information and Communication Technologies
 - **Methodology:** Quantitative survey of 10-35 participants, including students, educators, and technologists.
 - **Findings:** Insights into how ICT tools are used and the obstacles encountered.
 
-For a detailed analysis and results, please refer to the [Full Report](report/ict.pdf).
+For a detailed analysis and results, please refer to the [Full Report](Research/ict.pdf).
 
 ## Project Structure
 
-- **[Final Report](report/ict.pdf):** Comprehensive analysis and findings of the study.
+- **[Final Report](Research/ict.pdf):** Comprehensive analysis and findings of the study.
 
 ## Contact
 
